@@ -1,7 +1,7 @@
 Hi 👋 I'm Akshat. I'm a sophomore at [BITS Pilani Goa Campus](https://www.bits-pilani.ac.in/goa/), majoring in Mathematics and Mechanical Engineering.
 
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshatgokul/)
-- ✍️ My personal [blog](https://github.com/akshatgokul/synapse)
+- ✍️ My personal [blog](https://akshatgokul.github.io/synapse)
 - 💬 Ask me about: Cyber Security, Astronomy, Retro Tech, and Pink Floyd :heart:
 ---
 <p align = "center">
