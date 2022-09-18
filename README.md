@@ -1,6 +1,6 @@
 Hi 👋 I'm Akshat. I'm a sophomore at **[BITS Pilani Goa Campus](https://www.bits-pilani.ac.in/goa/)**, majoring in **Mathematics** and **Mechanical Engineering**.
 
-- 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/akshatgokul/)**
+- 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/akshatgokul/)** and **[Twitter](https://twitter.com/akshatgokul)**
 - ✍️ My personal **[blog](https://akshatgokul.github.io/synapse)**
 - 💬 Ask me anything about: **Cyber Security**, **Astronomy**, **Retro Tech**, and **Pink Floyd** :heart:
 - 😄 Pronouns: **He/Him**
