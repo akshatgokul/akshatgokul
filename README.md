@@ -7,7 +7,7 @@ Hi 👋 I'm Akshat. I'm a sophomore at **[BITS Pilani Goa Campus](https://www.bi
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshatgokul&count_private=true&theme=radical&show_icons=true" width=400>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatgokul&theme=radical" width=400>
+  <img src="https://streak-stats.demolab.com?user=akshatgokul&theme=radical" width=400>
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgokul&theme=radical">
